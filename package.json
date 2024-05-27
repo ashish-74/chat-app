@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@firebase/app": "^0.10.5",
-    "@firebase/messaging": "^0.12.9",
     "firebase": "^10.12.2",
     "next": "14.2.3",
     "react": "^18",

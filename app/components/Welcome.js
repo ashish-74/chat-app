@@ -76,6 +76,7 @@ const Welcome = ({ setIsAuth, showOtpBox, otp, setOtp, userName, setUserName, se
       onChange={(e) => setOtp(e.target.value)}
       placeholder="Enter OTP"
       />}
+      <br />
       <button className="login" onClick={verifyOtp}>
         Login
       </button>
